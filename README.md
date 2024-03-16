@@ -10,11 +10,10 @@ Ce repo est mon aide-mémoire qui me permet de tracer les différentes procédur
 
 Ce poste de travail me sert de "_lab_" pour mon métier de développeur, tant sur la partie développement à travers différents langages et technos, que sur quelques aspects de la partie _devops_.
 
-![Fedora]({https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white})
-
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 
 <img src="https://img.shields.io/badge/Fedora-39-blue">
 
 ## Sommaire
 * [Configuration matériel du poste de travail](pages/configuration-materiel-du-poste-de-travail.md)
+* [Installation de l'OS Fedora Workstation](pages/installation-os-fedora-workstation.md)
