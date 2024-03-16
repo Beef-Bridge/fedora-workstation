@@ -18,8 +18,6 @@ Une fois fait, on branche une clé USB assez volumineuse pour pouvoir accueillir
 
 1. Choisir le bouton "Flash from file" et parcourir le Mac à la recherche du fichier ISO de la distribution Linux.
 2. Cliquer sur "Select target" et sélectionner la clé USB insérée
-
-<img src="https://www.macplanete.com/wp-content/uploads/2022/06/faire-cle-usb-bootable-ubuntu-sur-mac.jpg" alt="balena etcher - choisir clé USB">
 3. De retour à l’interface principale, il ne reste plus qu’à cliquer sur le bouton "Flash!".
 4. Une fenêtre s’ouvre en surimpression et nécessite que l'on saisisse le mot de passe administrateur du Mac, et cliquer sur OK lorsque c’est fait.
 
