@@ -17,3 +17,6 @@ Ce poste de travail me sert de "_lab_" pour mon métier de développeur, tant su
 ## Sommaire
 * [Configuration matériel du poste de travail](pages/configuration-materiel-du-poste-de-travail.md)
 * [Installation de l'OS Fedora Workstation](pages/installation-os-fedora-workstation.md)
+* Configuration logiciels :
+  * [Installation et configuration des logiciels de base](pages/installation-configuration-logiciels-de-base.md)
+  * [Installation Spotify](pages/installation-spotify.md)
